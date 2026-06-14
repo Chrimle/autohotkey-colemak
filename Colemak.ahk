@@ -1,4 +1,6 @@
-﻿A_HotkeyInterval := 0
+﻿#SingleInstance Force
+
+A_HotkeyInterval := 0
 
 $a::a
 $s::r
